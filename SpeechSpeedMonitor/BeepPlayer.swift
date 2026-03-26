@@ -1,4 +1,5 @@
 import AVFoundation
+import AppKit
 import Foundation
 
 final class BeepPlayer {
